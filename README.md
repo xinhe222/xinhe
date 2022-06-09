@@ -1,0 +1,2 @@
+# xinhe
+mining
